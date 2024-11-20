@@ -1,0 +1,2408 @@
+@media(max-width:1420px){
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.div1{
+display: flex;
+flex-wrap: wrap;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+width: 100%;
+height: 100px;
+margin: auto;
+
+}
+.logo{
+margin-left: 100px;
+margin-top: 25px;
+display: flex;
+}
+.menu{
+width: 70%;
+display: flex;
+align-items: center; 
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+.menuhover:hover{
+color: rgb(250, 8, 129);
+font-weight: 600;
+font-size: larger;
+}
+.signin{
+background-color: hotpink;
+color: white;
+height: 300%;
+width: 130%;
+border-radius: 5px;
+}
+.nav{
+width: 100%;
+height: 50px;
+border: 1px solid grey;
+color: grey;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+align-items: center;
+}
+.menuhover2:hover{
+color: rgb(250, 8, 129);
+font-weight: 600;
+font-size: large;
+
+}
+.marquee1{
+background-color: black;
+color: hotpink;
+font-size: larger;
+height: 30px;
+display: flex;
+align-items: center;
+
+}
+.img1{
+width: 100%;
+border-radius: 2px;
+}
+.pics{
+width: 100%;
+height:350px;
+display: flex;
+flex-wrap: wrap;
+flex-direction: row;
+justify-content: space-evenly;
+}
+.oswald{
+color: red;
+margin-left: 35%;
+margin-bottom: 3%;
+}
+.offersss{
+width: 100%;
+height: 1050px;
+display: flex;
+flex-wrap: wrap;
+flex-direction: row;
+justify-content: space-evenly;
+}
+.essentials{
+width: 100%;
+height: 700px;
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+flex-wrap: wrap;
+
+}
+.dancing-script{
+color: red;
+margin-left: 39%;
+}
+
+
+.div35{
+background-color: grey;
+height:500px;
+width: 100%;
+color: white;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+align-items: center;
+}
+.div42{
+background-color: hotpink;
+color: white;
+width: 100%;
+height: 100px;
+display: flex;
+flex-wrap: wrap;
+flex-direction: row;
+justify-content: space-evenly;
+align-items: center;
+}
+.div41{
+display: flex;
+flex-wrap: wrap;
+margin-top: 20px;
+margin-left: 20px;
+color: grey;
+width: 100%;
+height: auto;
+}
+}
+@media(max-width:1399px){
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .div1{
+    display: flex;
+    flex-wrap: wrap;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    height: 100px;
+    margin: auto;
+    
+    }
+    .logo{
+    margin-left: 100px;
+    margin-top: 25px;
+    display: flex;
+    }
+    .menu{
+    width: 70%;
+    display: flex;
+    align-items: center; 
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    }
+    .menuhover:hover{
+    color: rgb(250, 8, 129);
+    font-weight: 600;
+    font-size: larger;
+    }
+    .signin{
+    background-color: hotpink;
+    color: white;
+    height: 300%;
+    width: 130%;
+    border-radius: 5px;
+    }
+    .nav{
+    width: 100%;
+    height: 50px;
+    border: 1px solid grey;
+    color: grey;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    }
+    .menuhover2:hover{
+    color: rgb(250, 8, 129);
+    font-weight: 600;
+    font-size: large;
+    
+    }
+    .marquee1{
+    background-color: black;
+    color: hotpink;
+    font-size: larger;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    
+    }
+    .img1{
+    width: 100%;
+    border-radius: 2px;
+    }
+    .pics{
+    width: 100%;
+    height:350px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    }
+    .oswald{
+    color: red;
+    margin-left: 35%;
+    margin-bottom: 3%;
+    }
+    .offersss{
+    width: 100%;
+    height: 1050px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    }
+    .essentials{
+    width: 100%;
+    height: 700px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+    }
+    .dancing-script{
+    color: red;
+    margin-left: 39%;
+    }
+    
+    
+    .div35{
+    background-color: grey;
+    height:500px;
+    width: 100%;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    }
+    .div42{
+    background-color: hotpink;
+    color: white;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    }
+    .div41{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: grey;
+    width: 100%;
+    height: auto;
+    }
+    }
+    @media(max-width:1199px){
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        
+        .div1{
+        display: flex;
+        flex-wrap: wrap;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 100%;
+        height: 100px;
+        margin: auto;
+        
+        }
+        .logo{
+        margin-left: 100px;
+        margin-top: 25px;
+        display: flex;
+        }
+        .menu{
+        width: 70%;
+        display: flex;
+        align-items: center; 
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        }
+        .menuhover:hover{
+        color: rgb(250, 8, 129);
+        font-weight: 600;
+        font-size: larger;
+        }
+        .signin{
+        background-color: hotpink;
+        color: white;
+        height: 300%;
+        width: 130%;
+        border-radius: 5px;
+        }
+        .nav{
+        width: 100%;
+        height: 50px;
+        border: 1px solid grey;
+        color: grey;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        align-items: center;
+        }
+        .menuhover2:hover{
+        color: rgb(250, 8, 129);
+        font-weight: 600;
+        font-size: large;
+        
+        }
+        .marquee1{
+        background-color: black;
+        color: hotpink;
+        font-size: larger;
+        height: 30px;
+        display: flex;
+        align-items: center;
+        
+        }
+        .img1{
+        width: 100%;
+        border-radius: 2px;
+        }
+        .pics{
+        width: 100%;
+        height:350px;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: space-evenly;
+        }
+        .oswald{
+        color: red;
+        margin-left: 34%;
+        margin-bottom: 3%;
+        }
+        .offersss{
+        width: 100%;
+        height: 1050px;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: space-evenly;
+        }
+        .essentials{
+        width: 100%;
+        height: 750px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        
+        }
+        .dancing-script{
+        color: red;
+        margin-left: 33%;
+        }
+        
+        
+        .div35{
+        background-color: grey;
+        height:500px;
+        width: 100%;
+        color: white;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        align-items: center;
+        }
+        .div42{
+        background-color: hotpink;
+        color: white;
+        width: 100%;
+        height: 100px;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+        }
+        .div41{
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 20px;
+        margin-left: 20px;
+        color: grey;
+        width: 100%;
+        height: auto;
+        }
+        }
+
+        @media(max-width:991px){
+            *{
+                margin: 0;
+                padding: 0;
+            }
+            
+            .div1{
+            display: flex;
+            flex-wrap: wrap;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            width: 100%;
+            height: 100px;
+            margin: auto;
+            
+            }
+            .logo{
+            margin-left: 100px;
+            margin-top: 25px;
+            display: flex;
+            }
+            .menu{
+            width: 70%;
+            display: flex;
+            align-items: center; 
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+            }
+            .menuhover:hover{
+            color: rgb(250, 8, 129);
+            font-weight: 600;
+            font-size: larger;
+            }
+            .signin{
+            background-color: hotpink;
+            color: white;
+            height: 300%;
+            width: 130%;
+            border-radius: 5px;
+            }
+            .nav{
+            width: 100%;
+            height: 50px;
+            border: 1px solid grey;
+            color: grey;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+            align-items: center;
+            }
+            .menuhover2:hover{
+            color: rgb(250, 8, 129);
+            font-weight: 600;
+            font-size: large;
+            
+            }
+            .marquee1{
+            background-color: black;
+            color: hotpink;
+            font-size: larger;
+            height: 30px;
+            display: flex;
+            align-items: center;
+            
+            }
+            .img1{
+            width: 100%;
+            border-radius: 2px;
+            }
+            .pics{
+            width: 100%;
+            height:350px;
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+            justify-content: space-evenly;
+            }
+            .oswald{
+            color: red;
+            margin-left: 20%;
+            margin-bottom: 3%;
+            }
+            .offersss{
+            width: 100%;
+            height: 1750px;
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+            justify-content: space-evenly;
+            }
+            .essentials{
+            width: 100%;
+            height: 750px;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-evenly;
+            flex-wrap: wrap;
+            
+            }
+            .dancing-script{
+            color: red;
+            margin-left: 33%;
+            }
+            
+            
+            .div35{
+            background-color: grey;
+            height:500px;
+            width: 100%;
+            color: white;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+            align-items: center;
+            }
+            .div42{
+            background-color: hotpink;
+            color: white;
+            width: 100%;
+            height: 100px;
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+            justify-content: space-evenly;
+            align-items: center;
+            }
+            .div41{
+            display: flex;
+            flex-wrap: wrap;
+            margin-top: 20px;
+            margin-left: 20px;
+            color: grey;
+            width: 100%;
+            height: auto;
+            }
+            }
+            @media(max-width:890px){
+                *{
+                    margin: 0;
+                    padding: 0;
+                }
+                
+                .div1{
+                display: flex;
+                flex-wrap: wrap;
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-between;
+                width: 98.6%;
+                height: 100px;
+                margin: auto;
+                
+                }
+                .logo{
+                margin-left: 100px;
+                margin-top: 25px;
+                display: flex;
+                }
+                .menu{
+                width: 70%;
+                display: flex;
+                align-items: center; 
+                flex-wrap: wrap;
+                justify-content: space-evenly;
+                }
+                .menuhover:hover{
+                color: rgb(250, 8, 129);
+                font-weight: 600;
+                font-size: larger;
+                }
+                .signin{
+                background-color: hotpink;
+                color: white;
+                height: 300%;
+                width: 130%;
+                border-radius: 5px;
+                }
+                .nav{
+                width: 98.6%;
+                height: 50px;
+                border: 1px solid grey;
+                color: grey;
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-evenly;
+                align-items: center;
+                }
+                .menuhover2:hover{
+                color: rgb(250, 8, 129);
+                font-weight: 600;
+                font-size: large;
+                
+                }
+                .marquee1{
+                background-color: black;
+                color: hotpink;
+                font-size: larger;
+                width: 98.8%;
+                height: 30px;
+                display: flex;
+                align-items: center;
+                
+                }
+                .img1{
+                width: 98.9%;
+                border-radius: 2px;
+                }
+                .pics{
+                width: 98.9%;
+                height:500px;
+                display: flex;
+                flex-wrap: wrap;
+                flex-direction: row;
+                justify-content: space-evenly;
+                }
+                .oswald{
+                color: red;
+                margin-left: 22%;
+                margin-bottom: 3%;
+                }
+                .offersss{
+                width: 100%;
+                height: 1750px;
+                display: flex;
+                flex-wrap: wrap;
+                flex-direction: row;
+                justify-content: space-evenly;
+                }
+                .essentials{
+                width: 100%;
+                height: 750px;
+                display: flex;
+                flex-direction: row;
+                justify-content: space-evenly;
+                flex-wrap: wrap;
+                
+                }
+                .dancing-script{
+                color: red;
+                margin-left: 28%;
+                }
+                
+                
+                .div35{
+                background-color: grey;
+                height:500px;
+                width: 100%;
+                color: white;
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-evenly;
+                align-items: center;
+                }
+                .div42{
+                background-color: hotpink;
+                color: white;
+                width: 100%;
+                height: 100px;
+                display: flex;
+                flex-wrap: wrap;
+                flex-direction: row;
+                justify-content: space-evenly;
+                align-items: center;
+                }
+                .div41{
+                display: flex;
+                flex-wrap: wrap;
+                margin-top: 20px;
+                margin-left: 20px;
+                color: grey;
+                width: 100%;
+                height: auto;
+                }
+                }
+              
+            @media(max-width:797px){
+                *{
+                    margin: 0;
+                    padding: 0;
+                }
+                
+                .div1{
+                display: flex;
+                flex-wrap: wrap;
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-between;
+                width: 100%;
+                height: 100px;
+                margin: auto;
+                
+                }
+                .logo{
+                margin-left: 100px;
+                margin-top: 25px;
+                display: flex;
+                }
+                .menu{
+                width: 70%;
+                display: flex;
+                align-items: center; 
+                flex-wrap: wrap;
+                justify-content: space-evenly;
+                }
+                .menuhover:hover{
+                color: rgb(250, 8, 129);
+                font-weight: 600;
+                font-size: larger;
+                }
+                .signin{
+                background-color: hotpink;
+                color: white;
+                height: 300%;
+                width: 130%;
+                border-radius: 5px;
+                }
+                .nav{
+                width: 100%;
+                height: 90px;
+                border: 1px solid grey;
+                color: grey;
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-evenly;
+                align-items: center;
+                }
+                .navbar{
+                    width: 10%;
+                }
+                .menuhover2:hover{
+                color: rgb(250, 8, 129);
+                font-weight: 600;
+                font-size: large;
+                
+                }
+                .marquee1{
+                background-color: black;
+                color: hotpink;
+                font-size: larger;
+                height: 30px;
+                display: flex;
+                align-items: center;
+                
+                }
+                .img1{
+                width: 100%;
+                border-radius: 2px;
+                }
+                .pics{
+                width: 100%;
+                height:550px;
+                display: flex;
+                flex-wrap: wrap;
+                flex-direction: row;
+                justify-content: space-evenly;
+                }
+                .oswald{
+                color: red;
+                margin-left: 4%;
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+               
+                }
+                .offersss{
+                width: 100%;
+                height: 1750px;
+                display: flex;
+                flex-wrap: wrap;
+                flex-direction: row;
+                justify-content: space-evenly;
+                }
+                .essentials{
+                width: 100%;
+                height: 1050px;
+                display: flex;
+                flex-direction: row;
+                justify-content: space-evenly;
+                flex-wrap: wrap;
+                
+                }
+                .dancing-script{
+                color: red;
+                margin-left: 25%;
+                }
+                
+                
+                .div35{
+                background-color: grey;
+                height:500px;
+                width: 100%;
+                color: white;
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-evenly;
+                align-items: center;
+                }
+                .div42{
+                background-color: hotpink;
+                color: white;
+                width: 100%;
+                height: 100px;
+                display: flex;
+                flex-wrap: wrap;
+                flex-direction: row;
+                justify-content: space-evenly;
+                align-items: center;
+                }
+                .div41{
+                display: flex;
+                flex-wrap: wrap;
+                margin-top: 20px;
+                margin-left: 20px;
+                color: grey;
+                width: 100%;
+                height: auto;
+                }
+                }
+                @media(max-width:700px){
+                    *{
+                        margin: 0;
+                        padding: 0;
+                    }
+                    
+                    .div1{
+                    display: flex;
+                    flex-wrap: wrap;
+                    display: flex;
+                    flex-wrap: wrap;
+                    justify-content: space-between;
+                    width: 95%;
+                    height: 100px;
+                    margin: auto;
+                    
+                    }
+                    .logo{
+                    margin-left: 50px;
+                    margin-top: 25px;
+                    display: flex;
+                    }
+                    .menu{
+                    width: 70%;
+                    display: flex;
+                    align-items: center; 
+                    flex-wrap: wrap;
+                    justify-content: space-evenly;
+                    }
+                    .menuhover:hover{
+                    color: rgb(250, 8, 129);
+                    font-weight: 600;
+                    font-size: larger;
+                    }
+                    .signin{
+                    background-color: hotpink;
+                    color: white;
+                    height: 300%;
+                    width: 130%;
+                    border-radius: 5px;
+                    }
+                    .nav{
+                    width: 98.4%;
+                    height: 90px;
+                    border: 1px solid grey;
+                    color: grey;
+                    display: flex;
+                    flex-wrap: wrap;
+                    justify-content: space-evenly;
+                    align-items: center;
+                    }
+                    .navbar{
+                        width: 10%;
+                    }
+                    .menuhover2:hover{
+                    color: rgb(250, 8, 129);
+                    font-weight: 600;
+                    font-size: large;
+                    
+                    }
+                    .marquee1{
+                    background-color: black;
+                    color: hotpink;
+                    font-size: larger;
+                    width: 98.5%;
+                    height: 30px;
+                    display: flex;
+                    align-items: center;
+                    
+                    }
+                    .img1{
+                    width: 98.4%;
+                    border-radius: 2px;
+                    }
+                    .pics{
+                    width: 98.5%;
+                    height:550px;
+                    display: flex;
+                    flex-wrap: wrap;
+                    flex-direction: row;
+                    justify-content: space-evenly;
+                    }
+                    .oswald{
+                    color: red;
+                    margin-left: 2%;
+                    display: flex;
+                    flex-wrap: wrap;
+                    justify-content: center;
+                   
+                    }
+                    .offersss{
+                    width: 98.4%;
+                    height: 1750px;
+                    display: flex;
+                    flex-wrap: wrap;
+                    flex-direction: row;
+                    justify-content: space-evenly;
+                    }
+                    .essentials{
+                    width: 98.4%;
+                    height: 1400px;
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: space-evenly;
+                    flex-wrap: wrap;
+                    
+                    }
+                    .dancing-script{
+                    color: red;
+                    margin-left: 20%;
+                    }
+                    
+                    
+                    .div35{
+                    background-color: grey;
+                    height:500px;
+                    width: 98.4%;
+                    color: white;
+                    display: flex;
+                    flex-wrap: wrap;
+                    justify-content: space-evenly;
+                    align-items: center;
+                    }
+                    .div42{
+                    background-color: hotpink;
+                    color: white;
+                    width: 98.4%;
+                    height: 100px;
+                    display: flex;
+                    flex-wrap: wrap;
+                    flex-direction: row;
+                    justify-content: space-evenly;
+                    align-items: center;
+                    }
+                    .div41{
+                    display: flex;
+                    flex-wrap: wrap;
+                    margin-top: 20px;
+                    margin-left: 20px;
+                    color: grey;
+                    width: 100%;
+                    height: auto;
+                    }
+                    }
+                    @media(max-width:643px){
+                        *{
+                            margin: 0;
+                            padding: 0;
+                        }
+                        
+                        .div1{
+                        display: flex;
+                        flex-wrap: wrap;
+                        display: flex;
+                        flex-wrap: wrap;
+                        justify-content: space-between;
+                        width: 101%;
+                        height: 220px;
+                        margin: auto;
+                        
+                        }
+                        .logo{
+                        margin-left: 250px;
+                        margin-top: 25px;
+                        display: flex;
+                        }
+                        .menu{
+                        width: 96%;
+                        display: flex;
+                        align-items: center; 
+                        flex-wrap: wrap;
+                        justify-content: space-between;
+                        }
+                        .head{
+                            display: flex;
+                            flex-wrap: wrap;
+                            width: 28%;
+                            flex-direction: row;
+                            justify-content: space-around;
+                            align-items: center;
+                        }
+                        .menuhover:hover{
+                        color: rgb(250, 8, 129);
+                        font-weight: 600;
+                        font-size: larger;
+                        }
+                        .signin{
+                        background-color: hotpink;
+                        color: white;
+                        height: 300%;
+                        width: 130%;
+                        border-radius: 5px;
+                        }
+                        .nav{
+                        width: 100.2%;
+                        height: 130px;
+                        border: 1px solid grey;
+                        color: grey;
+                        display: flex;
+                        flex-wrap: wrap;
+                        justify-content: space-evenly;
+                        align-items: center;
+                        }
+                        .navbar{
+                            display: flex;
+                            flex-wrap: wrap;
+                            width: 10%;
+                            justify-content: space-evenly;
+                            align-items: center;
+                            
+                        }
+                        .menuhover2:hover{
+                        color: rgb(250, 8, 129);
+                        font-weight: 600;
+                        font-size: large;
+                        
+                        }
+                        .marquee1{
+                        background-color: black;
+                        color: hotpink;
+                        font-size: larger;
+                        height: 30px;
+                        display: flex;
+                        width: 102.2%;
+                        align-items: center;
+                        
+                        }
+                        .img1{
+                        width: 101.2%;
+                        border-radius: 2px;
+                        }
+                        .pics{
+                        width: 101.2%;
+                        height:660px;
+                        display: flex;
+                        flex-wrap: wrap;
+                        flex-direction: row;
+                        justify-content: space-evenly;
+                        }
+                        .oswald{
+                        color: red;
+                        margin-left: 3%;
+                        display: flex;
+                        flex-wrap: wrap;
+                        justify-content: center;
+                       
+                        }
+                        .offersss{
+                        width: 101.2%;
+                        height: 1750px;
+                        display: flex;
+                        flex-wrap: wrap;
+                        flex-direction: row;
+                        justify-content: space-evenly;
+                        }
+                        .essentials{
+                        width: 101.2%;
+                        height: 1430px;
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: space-evenly;
+                        flex-wrap: wrap;
+                        
+                        }
+                        .dancing-script{
+                        color: red;
+                        margin-left: 18%;
+                        }
+                        
+                        
+                        .div35{
+                        background-color: grey;
+                        height:500px;
+                        width: 101.2%;
+                        color: white;
+                        display: flex;
+                        flex-wrap: wrap;
+                        justify-content: space-evenly;
+                        align-items: center;
+                        }
+                        .div42{
+                        background-color: hotpink;
+                        color: white;
+                        width: 100%;
+                        height: 101.2px;
+                        display: flex;
+                        flex-wrap: wrap;
+                        flex-direction: row;
+                        justify-content: space-evenly;
+                        align-items: center;
+                        }
+                        .div41{
+                        display: flex;
+                        flex-wrap: wrap;
+                        margin-top: 20px;
+                        margin-left: 20px;
+                        color: grey;
+                        width: 100%;
+                        height: auto;
+                        }
+                        }
+           
+                @media(max-width:575px){
+                    *{
+                        margin: 0;
+                        padding: 0;
+                    }
+                    
+                    .div1{
+                    display: flex;
+                    flex-wrap: wrap;
+                    display: flex;
+                    flex-wrap: wrap;
+                    justify-content: space-between;
+                    width: 102%;
+                    height: 220px;
+                    margin: auto;
+                    
+                    }
+                    .logo{
+                    margin-left: 250px;
+                    margin-top: 25px;
+                    display: flex;
+                    }
+                    .menu{
+                    width: 99%;
+                    display: flex;
+                    align-items: center; 
+                    flex-wrap: wrap;
+                    justify-content: space-between;
+                    }
+                    .head{
+                        display: flex;
+                        flex-wrap: wrap;
+                        width: 28%;
+                        flex-direction: row;
+                        justify-content: space-around;
+                        align-items: center;
+                    }
+                    .menuhover:hover{
+                    color: rgb(250, 8, 129);
+                    font-weight: 600;
+                    font-size: larger;
+                    }
+                    .signin{
+                    background-color: hotpink;
+                    color: white;
+                    height: 300%;
+                    width: 130%;
+                    border-radius: 5px;
+                    }
+                    .nav{
+                    width: 104%;
+                    height: 130px;
+                    border: 1px solid grey;
+                    color: grey;
+                    display: flex;
+                    flex-wrap: wrap;
+                    justify-content: space-evenly;
+                    align-items: center;
+                    }
+                    .navbar{
+                        display: flex;
+                        flex-wrap: wrap;
+                        width: 10%;
+                        justify-content: space-evenly;
+                        align-items: center;
+                        
+                    }
+                    .menuhover2:hover{
+                    color: rgb(250, 8, 129);
+                    font-weight: 600;
+                    font-size: large;
+                    
+                    }
+                    .marquee1{
+                    background-color: black;
+                    color: hotpink;
+                    font-size: larger;
+                    height: 30px;
+                    display: flex;
+                    width: 104.3%;
+                    align-items: center;
+                    
+                    }
+                    .img1{
+                    width: 104.3%;
+                    border-radius: 2px;
+                    }
+                    .pics{
+                    width: 104.3%;
+                    height:660px;
+                    display: flex;
+                    flex-wrap: wrap;
+                    flex-direction: row;
+                    justify-content: space-evenly;
+                    }
+                    .oswald{
+                    color: red;
+                    margin-left: 25%;
+                    display: flex;
+                    flex-wrap: wrap;
+                    justify-content: center;
+                   
+                    }
+                    .offersss{
+                    width: 104.3%;
+                    height: 1750px;
+                    display: flex;
+                    flex-wrap: wrap;
+                    flex-direction: row;
+                    justify-content: space-evenly;
+                    }
+                    .essentials{
+                    width: 104.3%;
+                    height: 1430px;
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: space-evenly;
+                    flex-wrap: wrap;
+                    
+                    }
+                    .dancing-script{
+                    color: red;
+                    margin-left: 33%;
+                    }
+                    
+                    
+                    .div35{
+                    background-color: grey;
+                    height:500px;
+                    width: 104.3%;
+                    color: white;
+                    display: flex;
+                    flex-wrap: wrap;
+                    justify-content: space-evenly;
+                    align-items: center;
+                    }
+                    .div42{
+                    background-color: hotpink;
+                    color: white;
+                    width: 104.3%;
+                    height: 100px;
+                    display: flex;
+                    flex-wrap: wrap;
+                    flex-direction: row;
+                    justify-content: space-evenly;
+                    align-items: center;
+                    }
+                    .div41{
+                    display: flex;
+                    flex-wrap: wrap;
+                    margin-top: 20px;
+                    margin-left: 20px;
+                    color: grey;
+                    width: 100%;
+                    height: auto;
+                    }
+                    }
+                    @media(max-width:540px){
+                        *{
+                            margin: 0;
+                            padding: 0;
+                        }
+                        
+                        .div1{
+                        display: flex;
+                        flex-wrap: wrap;
+                        display: flex;
+                        flex-wrap: wrap;
+                        justify-content: space-between;
+                        width: 135.2%;
+                        height: 100px;
+                        margin: auto;
+                        
+                        }
+                        .logo{
+                        margin-left: 100px;
+                        margin-top: 25px;
+                        display: flex;
+                        }
+                        .menu{
+                        width: 70%;
+                        display: flex;
+                        align-items: center; 
+                        flex-wrap: wrap;
+                        justify-content: space-evenly;
+                        }
+                        .menuhover:hover{
+                        color: rgb(250, 8, 129);
+                        font-weight: 600;
+                        font-size: larger;
+                        }
+                        .signin{
+                        background-color: hotpink;
+                        color: white;
+                        height: 300%;
+                        width: 130%;
+                        border-radius: 5px;
+                        }
+                        .nav{
+                        width: 135.2%;
+                        height: 90px;
+                        border: 1px solid grey;
+                        color: grey;
+                        display: flex;
+                        flex-wrap: wrap;
+                        justify-content: space-evenly;
+                        align-items: center;
+                        }
+                        .navbar{
+                            width: 10%;
+                        }
+                        .menuhover2:hover{
+                        color: rgb(250, 8, 129);
+                        font-weight: 600;
+                        font-size: large;
+                        
+                        }
+                        .marquee1{
+                        background-color: black;
+                        color: hotpink;
+                        font-size: larger;
+                        height: 30px;
+                        width: 136%;
+                        display: flex;
+                        align-items: center;
+                        
+                        }
+                        .img1{
+                        width: 136%;
+                        border-radius: 2px;
+                        }
+                        .pics{
+                        width: 136%;
+                        height:550px;
+                        display: flex;
+                        flex-wrap: wrap;
+                        flex-direction: row;
+                        justify-content: space-evenly;
+                        }
+                        .oswald{
+                        color: red;
+                        margin-left: 50%;
+                        display: flex;
+                        flex-wrap: wrap;
+                        justify-content: center;
+                       
+                        }
+                        .offersss{
+                        width: 136%;
+                        height: 1750px;
+                        display: flex;
+                        flex-wrap: wrap;
+                        flex-direction: row;
+                        justify-content: space-evenly;
+                        }
+                        .essentials{
+                        width: 136%;
+                        height: 1400px;
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: space-evenly;
+                        flex-wrap: wrap;
+                        
+                        }
+                        .dancing-script{
+                        color: red;
+                        margin-left: 50%;
+                        }
+                        
+                        
+                        .div35{
+                        background-color: grey;
+                        height:500px;
+                        width: 136%;
+                        color: white;
+                        display: flex;
+                        flex-wrap: wrap;
+                        justify-content: space-evenly;
+                        align-items: center;
+                        }
+                        .div42{
+                        background-color: hotpink;
+                        color: white;
+                        width: 136%;
+                        height: 100px;
+                        display: flex;
+                        flex-wrap: wrap;
+                        flex-direction: row;
+                        justify-content: space-evenly;
+                        align-items: center;
+                        }
+                        .div41{
+                        display: flex;
+                        flex-wrap: wrap;
+                        margin-top: 20px;
+                        margin-left: 20px;
+                        color: grey;
+                        width: 100%;
+                        height: auto;
+                        }
+                        }
+                    @media(max-width:530px){
+                        *{
+                            margin: 0;
+                            padding: 0;
+                        }
+                        
+                        .div1{
+                        display: flex;
+                        flex-wrap: wrap;
+                        display: flex;
+                        flex-wrap: wrap;
+                        justify-content: space-between;
+                        width: 138%;
+                        height: 100px;
+                        margin: auto;
+                        
+                        }
+                        .logo{
+                        margin-left: 100px;
+                        margin-top: 25px;
+                        display: flex;
+                        }
+                        .menu{
+                        width: 70%;
+                        display: flex;
+                        align-items: center; 
+                        flex-wrap: wrap;
+                        justify-content: space-evenly;
+                        }
+                        .menuhover:hover{
+                        color: rgb(250, 8, 129);
+                        font-weight: 600;
+                        font-size: larger;
+                        }
+                        .signin{
+                        background-color: hotpink;
+                        color: white;
+                        height: 300%;
+                        width: 130%;
+                        border-radius: 5px;
+                        }
+                        .nav{
+                        width: 136%;
+                        height: 90px;
+                        border: 1px solid grey;
+                        color: grey;
+                        display: flex;
+                        flex-wrap: wrap;
+                        justify-content: space-evenly;
+                        align-items: center;
+                        }
+                        .navbar{
+                            width: 10%;
+                        }
+                        .menuhover2:hover{
+                        color: rgb(250, 8, 129);
+                        font-weight: 600;
+                        font-size: large;
+                        
+                        }
+                        .marquee1{
+                        background-color: black;
+                        color: hotpink;
+                        font-size: larger;
+                        height: 30px;
+                        width: 137%;
+                        display: flex;
+                        align-items: center;
+                        
+                        }
+                        .img1{
+                        width: 137%;
+                        border-radius: 2px;
+                        }
+                        .pics{
+                        width: 137%;
+                        height:550px;
+                        display: flex;
+                        flex-wrap: wrap;
+                        flex-direction: row;
+                        justify-content: space-evenly;
+                        }
+                        .oswald{
+                        color: red;
+                        margin-left: 50%;
+                        display: flex;
+                        flex-wrap: wrap;
+                        justify-content: center;
+                       
+                        }
+                        .offersss{
+                        width: 137%;
+                        height: 1750px;
+                        display: flex;
+                        flex-wrap: wrap;
+                        flex-direction: row;
+                        justify-content: space-evenly;
+                        }
+                        .essentials{
+                        width: 137%;
+                        height: 1400px;
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: space-evenly;
+                        flex-wrap: wrap;
+                        
+                        }
+                        .dancing-script{
+                        color: red;
+                        margin-left: 50%;
+                        }
+                        
+                        
+                        .div35{
+                        background-color: grey;
+                        height:500px;
+                        width: 137%;
+                        color: white;
+                        display: flex;
+                        flex-wrap: wrap;
+                        justify-content: space-evenly;
+                        align-items: center;
+                        }
+                        .div42{
+                        background-color: hotpink;
+                        color: white;
+                        width: 137%;
+                        height: 100px;
+                        display: flex;
+                        flex-wrap: wrap;
+                        flex-direction: row;
+                        justify-content: space-evenly;
+                        align-items: center;
+                        }
+                        .div41{
+                        display: flex;
+                        flex-wrap: wrap;
+                        margin-top: 20px;
+                        margin-left: 20px;
+                        color: grey;
+                        width: 100%;
+                        height: auto;
+                        }
+                        }
+                        @media(max-width:496px){
+                            *{
+                                margin: 0;
+                                padding: 0;
+                            }
+                            
+                            .div1{
+                            display: flex;
+                            flex-wrap: wrap;
+                            display: flex;
+                            flex-wrap: wrap;
+                            justify-content: space-between;
+                            width: 137%;
+                            height: 100px;
+                            margin: auto;
+                            
+                            }
+                            .logo{
+                            margin-left: 100px;
+                            margin-top: 25px;
+                            display: flex;
+                            }
+                            .menu{
+                            width: 70%;
+                            display: flex;
+                            align-items: center; 
+                            flex-wrap: wrap;
+                            justify-content: space-evenly;
+                            }
+                            .menuhover:hover{
+                            color: rgb(250, 8, 129);
+                            font-weight: 600;
+                            font-size: larger;
+                            }
+                            .signin{
+                            background-color: hotpink;
+                            color: white;
+                            height: 300%;
+                            width: 130%;
+                            border-radius: 5px;
+                            }
+                            .nav{
+                            width: 136%;
+                            height: 90px;
+                            border: 1px solid grey;
+                            color: grey;
+                            display: flex;
+                            flex-wrap: wrap;
+                            justify-content: space-evenly;
+                            align-items: center;
+                            }
+                            .navbar{
+                                width: 10%;
+                            }
+                            .menuhover2:hover{
+                            color: rgb(250, 8, 129);
+                            font-weight: 600;
+                            font-size: large;
+                            
+                            }
+                            .marquee1{
+                            background-color: black;
+                            color: hotpink;
+                            font-size: larger;
+                            height: 30px;
+                            width: 137%;
+                            display: flex;
+                            align-items: center;
+                            
+                            }
+                            .img1{
+                            width: 137%;
+                            border-radius: 2px;
+                            }
+                            .pics{
+                            width: 136%;
+                            height:650px;
+                            display: flex;
+                            flex-wrap: wrap;
+                            flex-direction: row;
+                            justify-content: space-evenly;
+                            }
+                            .oswald{
+                            color: red;
+                            margin-left: 50%;
+                            display: flex;
+                            flex-wrap: wrap;
+                            justify-content: center;
+                           
+                            }
+                            .offersss{
+                            width: 137%;
+                            height: 1750px;
+                            display: flex;
+                            flex-wrap: wrap;
+                            flex-direction: row;
+                            justify-content: space-evenly;
+                            }
+                            .essentials{
+                            width: 137%;
+                            height: 1400px;
+                            display: flex;
+                            flex-direction: row;
+                            justify-content: space-evenly;
+                            flex-wrap: wrap;
+                            
+                            }
+                            .dancing-script{
+                            color: red;
+                            margin-left: 60%;
+                            }
+                            
+                            
+                            .div35{
+                            background-color: grey;
+                            height:500px;
+                            width: 137%;
+                            color: white;
+                            display: flex;
+                            flex-wrap: wrap;
+                            justify-content: space-evenly;
+                            align-items: center;
+                            }
+                            .div42{
+                            background-color: hotpink;
+                            color: white;
+                            width: 137%;
+                            height: 100px;
+                            display: flex;
+                            flex-wrap: wrap;
+                            flex-direction: row;
+                            justify-content: space-evenly;
+                            align-items: center;
+                            }
+                            .div41{
+                            display: flex;
+                            flex-wrap: wrap;
+                            margin-top: 20px;
+                            margin-left: 20px;
+                            color: grey;
+                            width: 100%;
+                            height: auto;
+                            }
+                            }
+                            @media(max-width:462px){
+                                *{
+                                    margin: 0;
+                                    padding: 0;
+                                }
+                                
+                                .div1{
+                                display: flex;
+                                flex-wrap: wrap;
+                                display: flex;
+                                flex-wrap: wrap;
+                                justify-content: space-between;
+                                width: 138%;
+                                height: 150px;
+                                margin: auto;
+                                
+                                }
+                                .logo{
+                                margin-left: 270px;
+                                margin-top: 25px;
+                                display: flex;
+                                }
+                                .menu{
+                                width: 100%;
+                                display: flex;
+                                align-items: center; 
+                                flex-wrap: wrap;
+                                justify-content: space-evenly;
+                                }
+                                .menuhover:hover{
+                                color: rgb(250, 8, 129);
+                                font-weight: 600;
+                                font-size: larger;
+                                }
+                                .signin{
+                                background-color: hotpink;
+                                color: white;
+                                height: 300%;
+                                width: 130%;
+                                border-radius: 5px;
+                                }
+                                .nav{
+                                width: 136%;
+                                height: 90px;
+                                border: 1px solid grey;
+                                color: grey;
+                                display: flex;
+                                flex-wrap: wrap;
+                                justify-content: space-evenly;
+                                align-items: center;
+                                }
+                                .navbar{
+                                    width: 10%;
+                                }
+                                .menuhover2:hover{
+                                color: rgb(250, 8, 129);
+                                font-weight: 600;
+                                font-size: large;
+                                
+                                }
+                                .marquee1{
+                                background-color: black;
+                                color: hotpink;
+                                font-size: larger;
+                                height: 30px;
+                                width: 137%;
+                                display: flex;
+                                align-items: center;
+                                
+                                }
+                                .img1{
+                                width: 137%;
+                                border-radius: 2px;
+                                }
+                                .pics{
+                                width: 137%;
+                                height:650px;
+                                display: flex;
+                                flex-wrap: wrap;
+                                flex-direction: row;
+                                justify-content: space-evenly;
+                                }
+                                .oswald{
+                                color: red;
+                                margin-left: 50%;
+                                display: flex;
+                                flex-wrap: wrap;
+                                justify-content: center;
+                               
+                                }
+                                .offersss{
+                                width: 137%;
+                                height: 1750px;
+                                display: flex;
+                                flex-wrap: wrap;
+                                flex-direction: row;
+                                justify-content: space-evenly;
+                                }
+                                .essentials{
+                                width: 137%;
+                                height: 1400px;
+                                display: flex;
+                                flex-direction: row;
+                                justify-content: space-evenly;
+                                flex-wrap: wrap;
+                                
+                                }
+                                .dancing-script{
+                                color: red;
+                                margin-left: 50%;
+                                }
+                                
+                                
+                                .div35{
+                                background-color: grey;
+                                height:500px;
+                                width: 137%;
+                                color: white;
+                                display: flex;
+                                flex-wrap: wrap;
+                                justify-content: space-evenly;
+                                align-items: center;
+                                }
+                                .div42{
+                                background-color: hotpink;
+                                color: white;
+                                width: 137%;
+                                height: 100px;
+                                display: flex;
+                                flex-wrap: wrap;
+                                flex-direction: row;
+                                justify-content: space-evenly;
+                                align-items: center;
+                                }
+                                .div41{
+                                display: flex;
+                                flex-wrap: wrap;
+                                margin-top: 20px;
+                                margin-left: 20px;
+                                color: grey;
+                                width: 100%;
+                                height: auto;
+                                }
+                                }
+                                @media(max-width:386px){
+                                    *{
+                                        margin: 0;
+                                        padding: 0;
+                                    }
+                                    
+                                    .div1{
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    justify-content: space-between;
+                                    width: 138%;
+                                    height: 150px;
+                                    margin: auto;
+                                    
+                                    }
+                                    .logo{
+                                    margin-left: 270px;
+                                    margin-top: 25px;
+                                    display: flex;
+                                    }
+                                    .menu{
+                                    width: 100%;
+                                    display: flex;
+                                    align-items: center; 
+                                    flex-wrap: wrap;
+                                    justify-content: space-evenly;
+                                    }
+                                    .menuhover:hover{
+                                    color: rgb(250, 8, 129);
+                                    font-weight: 600;
+                                    font-size: larger;
+                                    }
+                                    .signin{
+                                    background-color: hotpink;
+                                    color: white;
+                                    height: 300%;
+                                    width: 130%;
+                                    border-radius: 5px;
+                                    }
+                                    .nav{
+                                    width: 138%;
+                                    height: 90px;
+                                    border: 1px solid grey;
+                                    color: grey;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    justify-content: space-evenly;
+                                    align-items: center;
+                                    }
+                                    .navbar{
+                                        width: 10%;
+                                    }
+                                    .menuhover2:hover{
+                                    color: rgb(250, 8, 129);
+                                    font-weight: 600;
+                                    font-size: large;
+                                    
+                                    }
+                                    .marquee1{
+                                    background-color: black;
+                                    color: hotpink;
+                                    font-size: larger;
+                                    height: 30px;
+                                    width: 139%;
+                                    display: flex;
+                                    align-items: center;
+                                    
+                                    }
+                                    .img1{
+                                    width: 139%;
+                                    border-radius: 2px;
+                                    }
+                                    .pics{
+                                    width: 139%;
+                                    height:650px;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    flex-direction: row;
+                                    justify-content: space-evenly;
+                                    }
+                                    .oswald{
+                                    color: red;
+                                    margin-left: 50%;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    justify-content: center;
+                                   
+                                    }
+                                    .offersss{
+                                    width: 139%;
+                                    height: 1750px;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    flex-direction: row;
+                                    justify-content: space-evenly;
+                                    }
+                                    .essentials{
+                                    width: 139%;
+                                    height: 1400px;
+                                    display: flex;
+                                    flex-direction: row;
+                                    justify-content: space-evenly;
+                                    flex-wrap: wrap;
+                                    
+                                    }
+                                    .dancing-script{
+                                    color: red;
+                                    margin-left: 50%;
+                                    }
+                                    
+                                    
+                                    .div35{
+                                    background-color: grey;
+                                    height:500px;
+                                    width: 139%;
+                                    color: white;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    justify-content: space-evenly;
+                                    align-items: center;
+                                    }
+                                    .div42{
+                                    background-color: hotpink;
+                                    color: white;
+                                    width: 139%;
+                                    height: 100px;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    flex-direction: row;
+                                    justify-content: space-evenly;
+                                    align-items: center;
+                                    }
+                                }
+                                @media(max-width:381px){
+                                    *{
+                                        margin: 0;
+                                        padding: 0;
+                                    }
+                                    
+                                    .div1{
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    justify-content: space-between;
+                                    width: 138%;
+                                    height: 150px;
+                                    margin: auto;
+                                    
+                                    }
+                                    .logo{
+                                    margin-left: 270px;
+                                    margin-top: 25px;
+                                    display: flex;
+                                    }
+                                    .menu{
+                                    width: 100%;
+                                    display: flex;
+                                    align-items: center; 
+                                    flex-wrap: wrap;
+                                    justify-content: space-evenly;
+                                    }
+                                    .menuhover:hover{
+                                    color: rgb(250, 8, 129);
+                                    font-weight: 600;
+                                    font-size: larger;
+                                    }
+                                    .signin{
+                                    background-color: hotpink;
+                                    color: white;
+                                    height: 300%;
+                                    width: 130%;
+                                    border-radius: 5px;
+                                    }
+                                    .nav{
+                                    width: 138%;
+                                    height: 90px;
+                                    border: 1px solid grey;
+                                    color: grey;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    justify-content: space-evenly;
+                                    align-items: center;
+                                    }
+                                    .navbar{
+                                        width: 10%;
+                                    }
+                                    .menuhover2:hover{
+                                    color: rgb(250, 8, 129);
+                                    font-weight: 600;
+                                    font-size: large;
+                                    
+                                    }
+                                    .marquee1{
+                                    background-color: black;
+                                    color: hotpink;
+                                    font-size: larger;
+                                    height: 30px;
+                                    width: 139%;
+                                    display: flex;
+                                    align-items: center;
+                                    
+                                    }
+                                    .img1{
+                                    width: 139%;
+                                    border-radius: 2px;
+                                    }
+                                    .pics{
+                                    width: 139%;
+                                    height:650px;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    flex-direction: row;
+                                    justify-content: space-evenly;
+                                    }
+                                    .oswald{
+                                    color: red;
+                                    margin-left: 50%;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    justify-content: center;
+                                   
+                                    }
+                                    .offersss{
+                                    width: 139%;
+                                    height: 1750px;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    flex-direction: row;
+                                    justify-content: space-evenly;
+                                    }
+                                    .essentials{
+                                    width: 139%;
+                                    height: 1800px;
+                                    display: flex;
+                                    flex-direction: row;
+                                    justify-content: space-evenly;
+                                    flex-wrap: wrap;
+                                    
+                                    }
+                                    .dancing-script{
+                                    color: red;
+                                    margin-left: 55%;
+                                    }
+                                    
+                                    
+                                    .div35{
+                                    background-color: grey;
+                                    height:500px;
+                                    width: 139%;
+                                    color: white;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    justify-content: space-evenly;
+                                    align-items: center;
+                                    }
+                                    .div42{
+                                    background-color: hotpink;
+                                    color: white;
+                                    width: 139%;
+                                    height: 100px;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    flex-direction: row;
+                                    justify-content: space-evenly;
+                                    align-items: center;
+                                    }
+                                }
+                                @media(max-width:375px){
+                                    *{
+                                        margin: 0;
+                                        padding: 0;
+                                    }
+                                    
+                                    .div1{
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    justify-content: space-between;
+                                    width: 140%;
+                                    height: 150px;
+                                    margin: auto;
+                                    
+                                    }
+                                    .logo{
+                                    margin-left: 240px;
+                                    margin-top: 25px;
+                                    display: flex;
+                                    }
+                                    .menu{
+                                    width: 140%;
+                                    display: flex;
+                                    align-items: center; 
+                                    flex-wrap: wrap;
+                                    justify-content: space-evenly;
+                                    }
+                                    .menuhover:hover{
+                                    color: rgb(250, 8, 129);
+                                    font-weight: 600;
+                                    font-size: larger;
+                                    }
+                                    .signin{
+                                    background-color: hotpink;
+                                    color: white;
+                                    height: 300%;
+                                    width: 130%;
+                                    border-radius: 5px;
+                                    }
+                                    .nav{
+                                    width: 139%;
+                                    height: 90px;
+                                    border: 1px solid grey;
+                                    color: grey;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    justify-content: space-evenly;
+                                    align-items: center;
+                                    }
+                                    .navbar{
+                                        width: 10%;
+                                    }
+                                    .menuhover2:hover{
+                                    color: rgb(250, 8, 129);
+                                    font-weight: 600;
+                                    font-size: large;
+                                    
+                                    }
+                                    .marquee1{
+                                    background-color: black;
+                                    color: hotpink;
+                                    font-size: larger;
+                                    height: 30px;
+                                    width: 140%;
+                                    display: flex;
+                                    align-items: center;
+                                    
+                                    }
+                                    .img1{
+                                    width: 140%;
+                                    border-radius: 2px;
+                                    }
+                                    .pics{
+                                    width: 140%;
+                                    height:650px;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    flex-direction: row;
+                                    justify-content: space-evenly;
+                                    }
+                                    .oswald{
+                                        margin-left: 200px;
+                                    color: red;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    justify-content: center;
+                                   
+                                    }
+                                    .offersss{
+                                    width: 140%;
+                                    height: 1750px;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    flex-direction: row;
+                                    justify-content: space-evenly;
+                                    }
+                                    .essentials{
+                                    width: 140%;
+                                    height: 1800px;
+                                    display: flex;
+                                    flex-direction: row;
+                                    justify-content: space-evenly;
+                                    flex-wrap: wrap;
+                                    
+                                    }
+                                    .dancing-script{
+                                    color: red;
+                                    margin-left: 42%;
+                                    }
+                                    
+                                    
+                                    .div35{
+                                    background-color: grey;
+                                    height:500px;
+                                    width: 140%;
+                                    color: white;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    justify-content: space-evenly;
+                                    align-items: center;
+                                    }
+                                    .div42{
+                                    background-color: hotpink;
+                                    color: white;
+                                    width: 140%;
+                                    height: 100px;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    flex-direction: row;
+                                    justify-content: space-evenly;
+                                    align-items: center;
+                                    }
+                                }
+                                @media(max-width:320px){
+                                    *{
+                                        margin: 0;
+                                        padding: 0;
+                                    }
+                                    
+                                    .div1{
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    justify-content: space-between;
+                                    width: 160%;
+                                    height: 150px;
+                                    margin: auto;
+                                    
+                                    }
+                                    .logo{
+                                    margin-left: 230px;
+                                    margin-top: 25px;
+                                    display: flex;
+                                    }
+                                    .menu{
+                                    width: 140%;
+                                    display: flex;
+                                    align-items: center; 
+                                    flex-wrap: wrap;
+                                    justify-content: space-evenly;
+                                    }
+                                    .menuhover:hover{
+                                    color: rgb(250, 8, 129);
+                                    font-weight: 600;
+                                    font-size: larger;
+                                    }
+                                    .signin{
+                                    background-color: hotpink;
+                                    color: white;
+                                    height: 300%;
+                                    width: 130%;
+                                    border-radius: 5px;
+                                    }
+                                    .nav{
+                                    width: 161%;
+                                    height: 90px;
+                                    border: 1px solid grey;
+                                    color: grey;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    justify-content: space-evenly;
+                                    align-items: center;
+                                    }
+                                    .navbar{
+                                        width: 10%;
+                                    }
+                                    .menuhover2:hover{
+                                    color: rgb(250, 8, 129);
+                                    font-weight: 600;
+                                    font-size: large;
+                                    
+                                    }
+                                    .marquee1{
+                                    background-color: black;
+                                    color: hotpink;
+                                    font-size: larger;
+                                    height: 30px;
+                                    width: 162%;
+                                    display: flex;
+                                    align-items: center;
+                                    
+                                    }
+                                    .img1{
+                                    width: 162%;
+                                    border-radius: 2px;
+                                    }
+                                    .pics{
+                                    width: 162%;
+                                    height:650px;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    flex-direction: row;
+                                    justify-content: space-evenly;
+                                    }
+                                    .oswald{
+                                        margin-left: 200px;
+                                    color: red;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    justify-content: center;
+                                   
+                                    }
+                                    .offersss{
+                                    width: 162%;
+                                    height: 1750px;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    flex-direction: row;
+                                    justify-content: space-evenly;
+                                    }
+                                    .essentials{
+                                    width: 162%;
+                                    height: 1800px;
+                                    display: flex;
+                                    flex-direction: row;
+                                    justify-content: space-evenly;
+                                    flex-wrap: wrap;
+                                    
+                                    }
+                                    .dancing-script{
+                                    color: red;
+                                    margin-left: 62%;
+                                    }
+                                    
+                                    
+                                    .div35{
+                                    background-color: grey;
+                                    height:500px;
+                                    width: 162%;
+                                    color: white;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    justify-content: space-evenly;
+                                    align-items: center;
+                                    }
+                                    .div42{
+                                    background-color: hotpink;
+                                    color: white;
+                                    width: 162%;
+                                    height: 100px;
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    flex-direction: row;
+                                    justify-content: space-evenly;
+                                    align-items: center;
+                                    }
+              
+                                }
+                                
